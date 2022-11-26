@@ -1,0 +1,7 @@
+version: "3.3"
+services:
+  tour-por:
+    build:
+      context: .
+    ports:
+      - 80:80

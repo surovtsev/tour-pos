@@ -1,0 +1,8 @@
+DS_Store
+/node_modules
+./helm
+.releaserc
+.gitlab-ci.yml
+docker-compose.yaml
+docker-compose.dev.yaml
+README.md
